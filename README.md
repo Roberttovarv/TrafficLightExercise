@@ -26,7 +26,7 @@ Esto abrirá la aplicación en tu navegador (normalmente en `http://localhost:51
 const [color, setColor] = useState("");
 ```
 
-- Cada **<div>** representa una luz del semáforo.  
+- Cada **`<div>`** representa una luz del semáforo.  
 - A cada div se le debe asignar un color (`red`, `yellow`, `green`).  
 - Cuando el usuario haga clic en un div, ese color debe guardarse en el estado con `setColor`.
 
