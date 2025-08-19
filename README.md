@@ -42,7 +42,7 @@ Ejemplo:
 ---
 
 ## 3. Estilo condicional
-Para que la luz “brille”, debes añadir un condicional al `style={{}}` **solo si el estado `color` coincide con el color del div**.
+Para que la luz “brille”, debes añadir un condicional al **`style={{}}`** **solo si el estado `color` coincide con el color del div**.
 
 
 De esta manera:  
